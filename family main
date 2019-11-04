@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>HAN's family</title>
+    <meta charset="utf-8">
+  </head>
+
+  <body>
+    <h1><a href="1.html" target="_blank">When young</a></h1>
+    <ol>
+      <li><a href="2 image.html" target="_blank">Wedding</a></li>
+      <li><a href="3.html" target="_blank">Kids</a></li>
+      <li><a href="car.jpg" target="_blank">Hobby</a></li>
+    </ol>
+    <h2>Do you like it? <input type="checkbox"></h2>
+  </body>
+
+</html>
